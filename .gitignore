@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+browser-scripts/node_modules/
+
+# Local Codex / automation files
+.codex/
+.agents/
+.computer-use-scripts/
+computer-use-scripts/
+codex-plugin-backups/
+
+# Environment / logs
+.env
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

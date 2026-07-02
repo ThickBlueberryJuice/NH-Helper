@@ -1,3 +1,0 @@
-﻿display_name: GTNH Calc
-short_description: GTNH production line balancing calculator
-default_prompt: "I need to balance a GTNH production line. Walk me through it step by step: machine types, OC modes, recipes, and supply rates."
